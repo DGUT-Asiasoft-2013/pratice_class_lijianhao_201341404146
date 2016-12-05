@@ -1,2 +1,0 @@
-# pratice_class1_lijianhao_201341404146
-黎建豪的课堂代码练习仓库
